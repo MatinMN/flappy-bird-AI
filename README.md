@@ -4,6 +4,8 @@ An AI model that leans to play the game flappy bird using NEAT(NeuroEvolution of
 NEAT is an evolutionary algorithm that creates artificial neural networks and is very effective in creating models that learn to play games.
 [More on NEAT](https://neat-python.readthedocs.io/en/latest/neat_overview.html)
 
+Based on project by [Tech With Tim](https://www.youtube.com/watch?v=OGHA-elMrxI)
+
 ### Installation
 
 Install Python 3.x +
