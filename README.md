@@ -6,6 +6,8 @@ NEAT is an evolutionary algorithm that creates artificial neural networks and is
 
 Based on project by [Tech With Tim](https://www.youtube.com/watch?v=OGHA-elMrxI)
 
+<img src="https://github.com/MatinMN/flappy-bird-AI/blob/master/imgs/training.png?raw=true" width="600">
+
 ### Installation
 
 Install Python 3.x +
